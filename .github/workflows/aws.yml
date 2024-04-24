@@ -15,7 +15,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20' # Using Node.js 20
+        node-version: '20'
 
     - name: Zip Lambda function code
       run: zip -r processCard.zip lambda_function.py
