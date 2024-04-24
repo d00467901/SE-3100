@@ -1,0 +1,4 @@
+clinic_name,patient_name,patient_bank,patient_card_number,patient_card_security_code,patient_address,charge_amount
+Clinic A,John Doe,Capitol One,12375,123,"123 Main St, Townsville",100.00
+Clinic B,Jane Smith,Chase,12345,456,"456 Elm St, Springfield",200.00
+Clinic C,Jim Beam,AmericanExpress,340238028340283,789,"789 Pine St, Smallville",150.00

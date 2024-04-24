@@ -1,0 +1,51 @@
+BankName,AccountNum,Balance
+Wells Fargo,12345,2754.32
+Wells Fargo,12346,2581.62
+Wells Fargo,12347,7752.78
+Wells Fargo,12348,9990.29
+Wells Fargo,12349,1336.53
+Wells Fargo,12350,5036.97
+Wells Fargo,12351,264.04
+Wells Fargo,12352,1503.78
+Wells Fargo,12353,5663.14
+Wells Fargo,12354,17.01
+Bank of America,12345,5954.25
+Bank of America,12356,5.01
+Bank of America,12357,7944.42
+Bank of America,12358,3703.33
+Bank of America,12359,25.47
+Bank of America,12360,6188.72
+Bank of America,12361,2028.09
+Bank of America,12362,93.1
+Bank of America,12363,9853.42
+Bank of America,12364,6842.91
+US Bank,12345,8004.08
+US Bank,12366,2722.78
+US Bank,32367,966.29
+US Bannnk,12368,912.47
+US Bank,12369,17.12
+US Bank,12370,2167.36
+US Bank,12371,4204.7
+US Bank,12372,5230.08
+US Bank,12373,2152.47
+US Bank,12374,6869.09
+Capitol One,12375,3431.13
+Capitol One,12376,4572.62
+Capitol One,12377,6616.29
+Capitol One,12378,6866.81
+Capitol One,12379,6.45
+Capitol One,12380,5021.75
+Capitol One,12381,313.99
+Capitol One,12382,4610.24
+Capitol One,12383,1177.36
+Capitol One,12384,5437.93
+Chase,12345,12.95
+Chase,12386,1071.82
+Chase,12387,604.34
+Chase,12388,3180.77
+Chase,12389,9550.05
+Chase,12390,2752.36
+Chase,12391,476.56
+Chase,12392,4125.28
+Chase,12393,3304.17
+Chase,12394,2533.5

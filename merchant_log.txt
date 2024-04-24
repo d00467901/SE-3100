@@ -1,0 +1,1305 @@
+Timestamp: 2024-03-18 11:26:08.594778, Response: {"message":"Missing Authentication Token"}
+Timestamp: 2024-03-18 11:38:06.511465, Response: {"message":"Missing Authentication Token"}
+Timestamp: 2024-03-18 11:39:56.525858, Response: {"status": "Error - Bad Bank or Account Number."}
+Timestamp: 2024-03-18 14:28:42.811334, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:44.102225, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:44.370327, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:44.700385, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:45.060408, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:45.340250, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:45.626823, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:45.965302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:46.240422, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:46.500435, Response: Internal Server Error
+Timestamp: 2024-03-18 14:28:46.826478, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:47.140624, Response: Internal Server Error
+Timestamp: 2024-03-18 14:28:47.546015, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:47.859914, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:48.145462, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:48.427080, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:48.699890, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:49.020617, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:49.340647, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:49.644856, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:49.961097, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:50.241076, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:50.509740, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:50.820133, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:51.099522, Response: Internal Server Error
+Timestamp: 2024-03-18 14:28:51.360774, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:52.048233, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:52.360961, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:52.700349, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:53.101318, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:53.401021, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:53.682736, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:53.988657, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:54.253235, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:54.567557, Response: Internal Server Error
+Timestamp: 2024-03-18 14:28:54.880954, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:55.180214, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:55.460371, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:55.760550, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:56.020582, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:56.301555, Response: Internal Server Error
+Timestamp: 2024-03-18 14:28:56.579021, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:57.860498, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:58.139384, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:58.397727, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:59.009926, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:59.312324, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:59.620378, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:28:59.926278, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:00.203670, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:00.460681, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:00.743665, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:01.060167, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:01.357282, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:01.664538, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:01.940941, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:02.200953, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:02.481979, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:02.763032, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:03.061436, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:03.341778, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:03.609302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:03.959520, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:04.263095, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:04.576335, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:04.920791, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:05.351076, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:05.840831, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:06.148256, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:06.447064, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:06.761113, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:07.130823, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:07.454616, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:07.776566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:08.071717, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:08.360632, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:08.752793, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:09.041159, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:09.353886, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:29:09.647560, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:39.890290, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:40.569979, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:40.870081, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:41.138901, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:41.420676, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:41.703979, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:41.961839, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:42.263482, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:42.538598, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:42.847830, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:43.101108, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:43.421428, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:43.698846, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:44.002651, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:44.280741, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:44.580023, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:44.883109, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:45.228197, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:45.543521, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:45.843067, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:46.148196, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:46.442470, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:46.727747, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:47.042745, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:47.343101, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:47.589036, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:47.887939, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:48.182294, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:48.480603, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:48.761043, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:49.067580, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:49.366055, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:49.639308, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:49.900925, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:50.180161, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:50.419782, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:50.705725, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:50.966688, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:51.265387, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:51.573233, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:51.881562, Response: Internal Server Error
+Timestamp: 2024-03-18 14:30:52.147346, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:52.418815, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:52.699448, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:53.040329, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:53.361428, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:53.620724, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:53.942663, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:54.258470, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:54.604838, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:54.950888, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:55.223845, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:55.502298, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:55.918618, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:56.322078, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:56.602843, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:56.906796, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:57.215434, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:57.542687, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:57.870953, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:58.185251, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:58.587323, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:58.905060, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:59.221881, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:59.500894, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:30:59.821729, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:00.100707, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:00.437997, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:00.721342, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:01.001970, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:01.328643, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:01.663793, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:01.981874, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:02.300579, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:02.601728, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:02.901566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:03.295782, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:03.601775, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:03.882954, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:31:04.163186, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:46.849836, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:47.287562, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:47.562598, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:47.784216, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:48.021926, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:48.242975, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:48.482739, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:48.724338, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:48.984059, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:49.223351, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:49.402896, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:49.602559, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:49.827341, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:50.062293, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:50.301935, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:50.504917, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:50.765679, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:51.003693, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:51.243348, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:51.464986, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:51.703476, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:51.946939, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:52.183202, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:52.386803, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:52.666755, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:53.108432, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:53.343103, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:53.587997, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:53.803069, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:54.024024, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:54.287202, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:54.563495, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:54.806125, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:55.065903, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:55.283577, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:55.537206, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:55.843151, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:56.078096, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:56.302491, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:56.604090, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:56.864898, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:46:57.068939, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:57.324997, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:57.588396, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:57.829417, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:58.122618, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:58.383796, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:58.646615, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:58.863441, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:59.140670, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:59.389889, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:46:59.668721, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:00.927630, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:01.143090, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:01.391037, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:01.673651, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:01.923757, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:02.145316, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:02.364340, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:02.602757, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:02.823942, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:03.064813, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:03.343391, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:03.564665, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:03.783774, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:04.052033, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:04.284698, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:04.523642, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:04.803259, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:05.023379, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:05.289631, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:05.523496, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:05.791074, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:06.023362, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:06.243391, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:06.464381, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:06.712337, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:06.944828, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:07.183631, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:07.430706, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:54.959585, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:55.225163, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:55.445729, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:55.665087, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:55.884461, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:56.114794, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:56.364000, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:56.606829, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:56.845152, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:57.072316, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:47:57.286442, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:57.526570, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:47:57.745388, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:57.965641, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:58.204831, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:47:58.406427, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:58.649091, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:59.006153, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:59.224957, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:59.444648, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:59.677930, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:47:59.905261, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:00.188073, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-18 14:48:00.564964, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-18 14:48:00.744545, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:48:00.949678, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:01.184617, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:01.425681, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:01.804041, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:02.029602, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:02.264779, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:02.485207, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:02.755445, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:03.065417, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:03.317353, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:48:03.645561, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:03.891929, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:04.208016, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:04.471138, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:04.744983, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:04.964543, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-18 14:48:05.166915, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:05.427066, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:05.689726, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:05.950259, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:06.190582, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:06.433506, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:06.684964, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:06.927952, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:07.189634, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:07.445664, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:07.667404, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:07.908938, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:08.173670, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:08.405219, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:08.645181, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:08.868489, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:09.084935, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:09.325411, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:09.545529, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:09.764412, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:09.985268, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:10.568534, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:10.804813, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:11.066110, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:11.332482, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:11.551732, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:11.784377, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:12.025485, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:12.285929, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:12.570545, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:12.824964, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:13.045463, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:13.266131, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:13.485926, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:13.707094, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:13.965786, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:14.211440, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:14.446523, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-18 14:48:14.705804, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 10:42:47.032374, Response: {"status": "transaction approved", "merchant_name": "Lowes", "amount": "172.91"}
+Timestamp: 2024-03-28 10:42:48.299235, Response: {"status": "transaction approved", "merchant_name": "Petco", "amount": "118.26"}
+Timestamp: 2024-03-28 10:42:48.615116, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:48.892684, Response: {"status": "transaction approved", "merchant_name": "Best Buy", "amount": "187.78"}
+Timestamp: 2024-03-28 10:42:49.192690, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:49.412791, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:49.672214, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:49.892666, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:50.111342, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:50.372330, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:42:50.632359, Response: {"status": "transaction approved", "merchant_name": "Contact Climbing", "amount": "79.79"}
+Timestamp: 2024-03-28 10:42:50.935741, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:51.211420, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:51.432339, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:51.672357, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:42:51.932726, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:52.193219, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:52.413209, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:52.632110, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:52.892735, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:53.111725, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:53.332195, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:53.632853, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:53.892745, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:54.110422, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:54.333241, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:54.555167, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:55.156592, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:55.413167, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:55.672151, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:55.932137, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:56.152611, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:56.412167, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:56.632893, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:56.893368, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:57.152444, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:57.372856, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:57.632626, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:57.851977, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:58.072806, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:58.292433, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:58.512257, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:58.733645, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:58.953685, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:59.172564, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:42:59.393768, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:59.652943, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:42:59.912486, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:00.130463, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:00.353237, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:00.573387, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:00.792901, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:01.012440, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:01.232793, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:01.491552, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:01.712725, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:01.932302, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:02.191525, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:02.450965, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:02.672724, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:02.891311, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:03.150817, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:03.412694, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:03.672846, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:03.931898, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:04.152610, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:04.374018, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:04.632499, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:04.892289, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:05.152351, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:05.413126, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:05.659092, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:05.933365, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:06.191113, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:06.412687, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:06.692834, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:06.952832, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:07.192753, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:07.412264, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:07.631974, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:44.697232, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:44.911436, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:45.132462, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:45.350493, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:45.592169, Response: {"status": "transaction approved", "merchant_name": "Boot Barn", "amount": "166.45"}
+Timestamp: 2024-03-28 10:43:45.891584, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:46.152689, Response: {"status": "transaction approved", "merchant_name": "Thomas Judds Store", "amount": "152.82"}
+Timestamp: 2024-03-28 10:43:46.452339, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:46.689912, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:46.915606, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:47.132539, Response: {"status": "transaction approved", "merchant_name": "Michaels", "amount": "34.57"}
+Timestamp: 2024-03-28 10:43:47.452575, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:47.671552, Response: {"status": "transaction approved", "merchant_name": "Ulta Beauty", "amount": "86.30"}
+Timestamp: 2024-03-28 10:43:47.972132, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:48.229994, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:48.450822, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:48.672135, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:48.891430, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:49.111814, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:49.332017, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:49.552027, Response: {"status": "transaction approved", "merchant_name": "FedEx", "amount": "9.93"}
+Timestamp: 2024-03-28 10:43:49.852055, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:50.111648, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:43:50.372110, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:43:50.592723, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:46:45.618481, Response: {"status": "transaction approved", "merchant_name": "Boot Barn", "amount": "10.24"}
+Timestamp: 2024-03-28 10:46:46.169979, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:46.453697, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:46.712258, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:46.971329, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:47.252396, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:47.511614, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:47.771382, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:48.031225, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:46:48.251488, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:48.511269, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:46:48.772294, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:49.034459, Response: {"status": "transaction approved", "merchant_name": "Gaias Garden Cafe", "amount": "125.67"}
+Timestamp: 2024-03-28 10:46:49.330792, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:49.612948, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:49.872925, Response: {"status": "transaction approved", "merchant_name": "Dillards", "amount": "199.10"}
+Timestamp: 2024-03-28 10:46:50.189941, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:50.452300, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:50.711821, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:51.070554, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:51.378093, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:51.597728, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:51.851961, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:52.112325, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:52.626353, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:46:53.151749, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:53.481678, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:53.767025, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:54.232095, Response: {"status": "transaction approved", "merchant_name": "Sportsmans Warehouse", "amount": "136.24"}
+Timestamp: 2024-03-28 10:46:54.532070, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:54.791190, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:55.051877, Response: {"status": "transaction approved", "merchant_name": "Ross", "amount": "14.24"}
+Timestamp: 2024-03-28 10:46:55.375092, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:55.634007, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:55.892147, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:56.173143, Response: {"status": "transaction approved", "merchant_name": "UPS", "amount": "95.49"}
+Timestamp: 2024-03-28 10:46:56.474789, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:56.751183, Response: {"status": "transaction approved", "merchant_name": "Steven Wade", "amount": "112.69"}
+Timestamp: 2024-03-28 10:46:57.093786, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:57.374415, Response: {"status": "transaction approved", "merchant_name": "Utah Tech Book Store", "amount": "141.55"}
+Timestamp: 2024-03-28 10:46:57.694564, Response: {"status": "transaction approved", "merchant_name": "Big O tire", "amount": "134.30"}
+Timestamp: 2024-03-28 10:46:58.025395, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:58.356868, Response: {"status": "transaction approved", "merchant_name": "Costco", "amount": "75.19"}
+Timestamp: 2024-03-28 10:46:58.673431, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:58.954415, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:59.237029, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:59.513272, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:46:59.813732, Response: {"status": "transaction approved", "merchant_name": "Lowes", "amount": "99.16"}
+Timestamp: 2024-03-28 10:47:00.151459, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:00.412108, Response: {"status": "transaction approved", "merchant_name": "Party City", "amount": "177.00"}
+Timestamp: 2024-03-28 10:47:00.712100, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:00.970799, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:01.233208, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:01.492621, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:01.752320, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:02.012609, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:02.292317, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:02.552483, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:02.836591, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:03.113026, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:03.411876, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:03.672966, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:03.952775, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:04.234061, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:04.532662, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:04.853892, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:05.130407, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:05.411063, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:05.694838, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:05.971254, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:06.232410, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:06.491726, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:06.770790, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:07.053785, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:07.311066, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:07.575966, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:07.831637, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:08.114508, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:08.393757, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:47:08.672618, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 10:58:12.375651, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:13.681566, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:13.942095, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:14.241324, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:14.503100, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:14.761686, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:15.023360, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:15.282095, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:15.542937, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:15.803026, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:16.061925, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:16.322872, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:16.582132, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:16.842166, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:17.102779, Response: {"status": "transaction approved", "merchant_name": "Salty Fins", "amount": "176.46"}
+Timestamp: 2024-03-28 10:58:17.403454, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:17.661949, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:17.923033, Response: {"status": "transaction approved", "merchant_name": "Dillards", "amount": "190.46"}
+Timestamp: 2024-03-28 10:58:18.202614, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:18.460722, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:18.722031, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:18.981102, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:19.241897, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:19.502461, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:19.761283, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:20.021459, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:20.281678, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:20.849753, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:21.101824, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:21.382169, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:21.642096, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:21.902966, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:22.161885, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:22.421711, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:22.682082, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:22.943040, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:23.202305, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:23.462861, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:23.721724, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:23.981646, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:58:24.242517, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:24.502304, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:24.742414, Response: {"status": "transaction approved", "merchant_name": "Jo-Ann", "amount": "74.01"}
+Timestamp: 2024-03-28 10:58:25.042706, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:25.301930, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:25.561882, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:25.823309, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:26.084480, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:26.342171, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:58:26.602280, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:08.188661, Response: {"status": "transaction approved", "merchant_name": "Big 5", "amount": "144.76"}
+Timestamp: 2024-03-28 10:59:08.482187, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:08.741546, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:09.001984, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:09.263340, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:09.522084, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:09.781723, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:10.039698, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:10.321069, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:10.580779, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:10.840080, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:11.100306, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:11.360742, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:11.620348, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:11.880332, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:12.141610, Response: {"status": "transaction approved", "merchant_name": "Sportsmans Warehouse", "amount": "149.16"}
+Timestamp: 2024-03-28 10:59:12.438853, Response: {"status": "transaction approved", "merchant_name": "UPS", "amount": "6.79"}
+Timestamp: 2024-03-28 10:59:12.739322, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:12.999421, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:13.261526, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:13.519840, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:13.780137, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:14.039838, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:14.299598, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:14.559399, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:59:14.819335, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:59:15.080761, Response: {"status": {"status": "Account data incomplete: missing balance field."}}
+Timestamp: 2024-03-28 10:59:15.340019, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:15.602172, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:15.859783, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:16.122303, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:16.399020, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:16.663118, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:16.919561, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:17.182202, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:17.441805, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:17.702250, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:17.962578, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:18.220547, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:18.481746, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:18.741724, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:59:19.003100, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:59:19.261691, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:19.522310, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:19.781370, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:20.039523, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:20.301461, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:20.563044, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:20.821875, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:21.082083, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:21.341462, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:21.601616, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:21.861741, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:22.121660, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:22.380755, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:22.641330, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:22.902609, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:23.201919, Response: {"status": {"status": "Account data incomplete: missing credit fields."}}
+Timestamp: 2024-03-28 10:59:23.460746, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:23.720845, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:23.982251, Response: {"status": {"status": "Account data incomplete: missing credit fields."}}
+Timestamp: 2024-03-28 10:59:24.242652, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:24.502019, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:24.761033, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:25.021442, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:25.281946, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:25.541674, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:25.801390, Response: {"status": {"status": "Account data incomplete: missing credit fields."}}
+Timestamp: 2024-03-28 10:59:26.061009, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:26.321266, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:26.583359, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:26.841488, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:27.102041, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:27.361843, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:27.621838, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:27.881034, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:28.162143, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:28.420643, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:28.681593, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:28.940966, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:29.201397, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:29.461971, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:29.723902, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:29.984676, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:30.241583, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:30.500874, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:30.801762, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 10:59:31.061231, Response: {"status": "transaction approved", "merchant_name": "Red Rock Bicycles", "amount": "134.28"}
+Timestamp: 2024-03-28 10:59:31.361650, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:31.621555, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:31.882115, Response: {"status": {"status": "Account data incomplete: missing credit fields."}}
+Timestamp: 2024-03-28 10:59:32.141619, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:32.401773, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:32.661291, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:32.921435, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:33.181437, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:33.441428, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:33.703276, Response: {"status": {"status": "Account data incomplete: missing credit fields."}}
+Timestamp: 2024-03-28 10:59:33.981797, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 10:59:34.221619, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 13:18:50.453810, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:51.024715, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:51.428309, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:51.768529, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:52.187513, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:52.530400, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:52.886849, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:53.258755, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:53.627079, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:54.308163, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:18:54.589100, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:54.929072, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:18:55.231111, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:55.650383, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:56.006402, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:18:56.328858, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:56.648326, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:57.006953, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:18:57.289392, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:57.670876, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:58.006828, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:58.347838, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:58.708593, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 13:18:58.947670, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 13:18:59.267129, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:18:59.528792, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:18:59.863370, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:00.271220, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:00.608842, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:00.945388, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:01.297714, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:01.628013, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:02.110374, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:02.427627, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:02.774681, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:19:03.035010, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:03.367247, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:03.696910, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:04.121344, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:04.448316, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:04.789083, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:19:05.067473, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:05.407942, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:05.860484, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:06.207736, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:06.527935, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:06.911421, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:07.296036, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:07.669970, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:08.050213, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:08.487859, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:08.873178, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:09.206230, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:09.591976, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:09.951016, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:10.315292, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:10.667693, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:11.083770, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:11.488302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:11.836385, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:12.207405, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:12.586925, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:12.948533, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:13.333460, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:13.742790, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:14.155946, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:14.496700, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:14.861572, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:15.305836, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:15.670500, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:16.029392, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:16.410627, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:16.811203, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:17.159092, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:17.573778, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:18.118512, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:19:18.473240, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:18.815268, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:19.194110, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:19:19.572712, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:00.906432, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:01.611850, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:02.029780, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:02.407139, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:02.769102, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:03.253758, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:03.671020, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:03.990145, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:04.325820, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:04.690910, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:04.989608, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:05.399245, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:05.709186, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:06.369011, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:06.831639, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:07.086985, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:07.553208, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:07.912664, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:08.186199, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:08.571931, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:08.905968, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:09.265209, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:09.625082, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 13:50:09.905660, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 13:50:10.106198, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:10.363660, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:10.822289, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:11.231709, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:11.564538, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:11.917569, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:12.265301, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:12.610806, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:12.946618, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:13.350889, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:13.690581, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:13.945480, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:14.299359, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:14.712077, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:15.066007, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:15.414364, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:15.745531, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:16.025727, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:16.365801, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:16.687800, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:17.050607, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:17.403743, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:17.725175, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:18.045474, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:18.495302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:18.848254, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:19.190613, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:19.543538, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:19.863890, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:20.238265, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:20.577199, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:21.052324, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:21.386031, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:21.706232, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:22.047727, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:22.433606, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:22.767254, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:23.217345, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:23.613950, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:23.969300, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:24.336714, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:24.711387, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:25.075430, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:25.451770, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:25.784172, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:26.377752, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:26.728544, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:27.122905, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:27.521601, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:27.872566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:28.217800, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:28.585345, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:50:28.940302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:29.342708, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:29.688223, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:50:30.006770, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:31.174957, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:31.620596, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:31.980076, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:32.340184, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:32.698392, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:33.046544, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:33.405053, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:33.720261, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:34.081514, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:34.431799, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:34.723203, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:35.096457, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:35.439577, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:36.270322, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:36.634457, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:36.958091, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:37.397859, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:37.743728, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:38.077436, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:38.444102, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:38.890088, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:39.220792, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:39.602489, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 13:59:39.919865, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 13:59:40.178709, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:40.540300, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:40.926364, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:41.291742, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:41.664993, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:42.005580, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:42.359992, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:42.745567, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:43.139071, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:43.498362, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:43.923572, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:44.265960, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:44.630678, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:45.030888, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:45.383758, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:45.766220, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:46.122020, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 13:59:46.685430, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:47.101632, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:47.481601, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:47.842039, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:48.222884, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:48.581403, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:49.000385, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:49.383306, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:49.725098, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:50.086801, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:50.499611, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:50.853747, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:51.316868, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:51.729866, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:53.104047, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:53.579597, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:53.940663, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:54.287455, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:54.683482, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:55.099238, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:55.450980, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:56.097603, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:56.482865, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:56.841393, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:57.218289, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:57.830858, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:58.180878, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:58.633069, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:59.038392, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:59.380283, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 13:59:59.799510, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:00.218401, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:00.601210, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:01.195863, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:01.720504, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:00:02.082922, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:02.563588, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:02.932054, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:03.323441, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:44.708644, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:45.067310, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:45.440356, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:45.839086, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:46.183100, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:46.499150, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": "17.15"}
+Timestamp: 2024-03-28 14:00:46.934854, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:26.374177, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 19.23967815883073}
+Timestamp: 2024-03-28 14:03:27.019777, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 5.817195134440645}
+Timestamp: 2024-03-28 14:03:27.391347, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 31.92946532045856}
+Timestamp: 2024-03-28 14:03:27.901097, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.349370946306}
+Timestamp: 2024-03-28 14:03:28.619082, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 15.936175604630565}
+Timestamp: 2024-03-28 14:03:29.130123, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 11.268747148142744}
+Timestamp: 2024-03-28 14:03:29.476435, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:29.800651, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 13.878440187254004}
+Timestamp: 2024-03-28 14:03:30.142501, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 24.151552338641437}
+Timestamp: 2024-03-28 14:03:30.481132, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:30.873794, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.4076795863664726}
+Timestamp: 2024-03-28 14:03:31.222889, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:31.540908, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 14.499849607612237}
+Timestamp: 2024-03-28 14:03:31.896678, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.24732260659346}
+Timestamp: 2024-03-28 14:03:32.255231, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:32.554838, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.38462111694312}
+Timestamp: 2024-03-28 14:03:32.900640, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.4073005509525}
+Timestamp: 2024-03-28 14:03:33.277270, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:33.632153, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 92.6826834164041}
+Timestamp: 2024-03-28 14:03:33.977542, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.3415994690512}
+Timestamp: 2024-03-28 14:03:34.336970, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 89.98667171564144}
+Timestamp: 2024-03-28 14:03:34.675662, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.151990604861524}
+Timestamp: 2024-03-28 14:03:35.246526, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 14:03:35.585548, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 14:03:35.816403, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:36.140122, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 11.501572310964148}
+Timestamp: 2024-03-28 14:03:36.496420, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 27.181534387788396}
+Timestamp: 2024-03-28 14:03:36.873624, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 5.711548955578316}
+Timestamp: 2024-03-28 14:03:37.219566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 94.45113418290919}
+Timestamp: 2024-03-28 14:03:37.584260, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 45.919486457023716}
+Timestamp: 2024-03-28 14:03:37.938327, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 41.62051502186831}
+Timestamp: 2024-03-28 14:03:38.362347, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.53403549830924}
+Timestamp: 2024-03-28 14:03:38.750207, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.035326122748835}
+Timestamp: 2024-03-28 14:03:39.096646, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.687048338011268}
+Timestamp: 2024-03-28 14:03:39.477777, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:39.795503, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.832411766333028}
+Timestamp: 2024-03-28 14:03:40.152550, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 16.25961786740896}
+Timestamp: 2024-03-28 14:03:40.540906, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 70.75613151611294}
+Timestamp: 2024-03-28 14:03:41.207159, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 98.06964541437208}
+Timestamp: 2024-03-28 14:03:41.616748, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 20.712045293083424}
+Timestamp: 2024-03-28 14:03:42.024469, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:42.355395, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 52.71161682579254}
+Timestamp: 2024-03-28 14:03:42.740449, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 5.4240854754710295}
+Timestamp: 2024-03-28 14:03:43.352417, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 33.99571677588897}
+Timestamp: 2024-03-28 14:03:43.724280, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 56.861221165175415}
+Timestamp: 2024-03-28 14:03:44.097378, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 34.5936710408507}
+Timestamp: 2024-03-28 14:03:44.697060, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 46.610587565132235}
+Timestamp: 2024-03-28 14:03:45.066827, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.817579509727146}
+Timestamp: 2024-03-28 14:03:45.454847, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.586244426801283}
+Timestamp: 2024-03-28 14:03:45.908408, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.550047462261757}
+Timestamp: 2024-03-28 14:03:46.257147, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 31.579528870584895}
+Timestamp: 2024-03-28 14:03:46.740566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 51.73943470927783}
+Timestamp: 2024-03-28 14:03:47.075376, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.241219536449954}
+Timestamp: 2024-03-28 14:03:47.458719, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 11.652854768826682}
+Timestamp: 2024-03-28 14:03:47.796008, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 59.711266685302945}
+Timestamp: 2024-03-28 14:03:48.122621, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 3.293461802516573}
+Timestamp: 2024-03-28 14:03:48.535618, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 70.84115917250045}
+Timestamp: 2024-03-28 14:03:48.890921, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 25.966703126895354}
+Timestamp: 2024-03-28 14:03:49.328514, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 99.9464362463522}
+Timestamp: 2024-03-28 14:03:49.760416, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 13.1019022436352}
+Timestamp: 2024-03-28 14:03:50.157483, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.46009985697108}
+Timestamp: 2024-03-28 14:03:50.624323, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 51.77770303862903}
+Timestamp: 2024-03-28 14:03:50.956243, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 33.69080679320102}
+Timestamp: 2024-03-28 14:03:51.296934, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.383901896343172}
+Timestamp: 2024-03-28 14:03:51.697279, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.64101827036879}
+Timestamp: 2024-03-28 14:03:52.156192, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 58.17242936304883}
+Timestamp: 2024-03-28 14:03:52.495608, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 50.69260760539075}
+Timestamp: 2024-03-28 14:03:52.870518, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 64.53662292835199}
+Timestamp: 2024-03-28 14:03:53.236316, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 22.996554441890616}
+Timestamp: 2024-03-28 14:03:53.601286, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 30.389747315948256}
+Timestamp: 2024-03-28 14:03:53.995661, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 10.001107548691468}
+Timestamp: 2024-03-28 14:03:54.376391, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 20.418844433042715}
+Timestamp: 2024-03-28 14:03:54.735667, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.71498457963649}
+Timestamp: 2024-03-28 14:03:55.075727, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 7.392738468772386}
+Timestamp: 2024-03-28 14:03:55.532195, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.35358944983146}
+Timestamp: 2024-03-28 14:03:55.895935, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:03:56.198883, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 56.910305087242385}
+Timestamp: 2024-03-28 14:03:56.562475, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.32899294253684}
+Timestamp: 2024-03-28 14:03:56.917739, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 41.5617674592309}
+Timestamp: 2024-03-28 14:03:57.285175, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 52.596355968550256}
+Timestamp: 2024-03-28 14:04:49.544350, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 33.85099288599373}
+Timestamp: 2024-03-28 14:04:50.199692, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.6316383372871002}
+Timestamp: 2024-03-28 14:04:50.585226, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 57.895194351531174}
+Timestamp: 2024-03-28 14:04:50.960245, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 37.95112014526519}
+Timestamp: 2024-03-28 14:04:51.338302, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.15601403803471}
+Timestamp: 2024-03-28 14:04:51.760202, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 79.62935568308947}
+Timestamp: 2024-03-28 14:04:52.126610, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:52.440901, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 37.739821122865976}
+Timestamp: 2024-03-28 14:04:52.840050, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 62.56527741439001}
+Timestamp: 2024-03-28 14:04:53.551365, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:53.836058, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 95.45657186922749}
+Timestamp: 2024-03-28 14:04:54.193855, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:54.474394, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 10.467454301577694}
+Timestamp: 2024-03-28 14:04:54.821219, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 75.90037139655648}
+Timestamp: 2024-03-28 14:04:55.191453, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:55.538301, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 73.48375773732548}
+Timestamp: 2024-03-28 14:04:55.906755, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 93.59891463959896}
+Timestamp: 2024-03-28 14:04:56.345696, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:56.677088, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 87.082615293674}
+Timestamp: 2024-03-28 14:04:57.028881, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.94265156924782}
+Timestamp: 2024-03-28 14:04:57.353180, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 56.469950392834654}
+Timestamp: 2024-03-28 14:04:57.697671, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 96.214487784384}
+Timestamp: 2024-03-28 14:04:58.056414, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 14:04:58.372654, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 14:04:58.619871, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:04:58.934498, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 53.87365380559036}
+Timestamp: 2024-03-28 14:04:59.294827, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 56.49826313453963}
+Timestamp: 2024-03-28 14:04:59.645777, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 22.022019302513673}
+Timestamp: 2024-03-28 14:05:00.017319, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 89.71165443825335}
+Timestamp: 2024-03-28 14:05:00.415605, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 13.291718309076671}
+Timestamp: 2024-03-28 14:05:00.828978, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 47.27801520808587}
+Timestamp: 2024-03-28 14:05:01.245549, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 37.073447899848134}
+Timestamp: 2024-03-28 14:05:01.758726, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 32.456143240181575}
+Timestamp: 2024-03-28 14:05:02.150263, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 64.84229181952573}
+Timestamp: 2024-03-28 14:05:02.535021, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:05:02.861662, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.4862570287569432}
+Timestamp: 2024-03-28 14:05:03.235139, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.67190700125101}
+Timestamp: 2024-03-28 14:05:03.615272, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.6886807161550332}
+Timestamp: 2024-03-28 14:05:04.106309, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 22.016385505470616}
+Timestamp: 2024-03-28 14:05:04.446831, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 24.822317027883024}
+Timestamp: 2024-03-28 14:05:04.811931, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 0.13485725813122684}
+Timestamp: 2024-03-28 14:05:05.173789, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 91.82447372857963}
+Timestamp: 2024-03-28 14:05:05.553218, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 78.84373234790533}
+Timestamp: 2024-03-28 14:05:05.894101, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 55.5638621666927}
+Timestamp: 2024-03-28 14:05:06.350200, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 48.84216596457889}
+Timestamp: 2024-03-28 14:05:06.959401, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 6.565808107871119}
+Timestamp: 2024-03-28 14:05:07.293346, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.55623366113457}
+Timestamp: 2024-03-28 14:05:07.679727, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 58.63359391726836}
+Timestamp: 2024-03-28 14:05:08.089808, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 16.51243829760487}
+Timestamp: 2024-03-28 14:05:08.505164, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.879762240129565}
+Timestamp: 2024-03-28 14:05:08.875737, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 67.88535857565853}
+Timestamp: 2024-03-28 14:05:09.315768, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 84.32728287733799}
+Timestamp: 2024-03-28 14:05:09.735596, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 54.953851908286524}
+Timestamp: 2024-03-28 14:05:10.081880, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 88.22279492246477}
+Timestamp: 2024-03-28 14:05:10.546074, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 7.112630644343588}
+Timestamp: 2024-03-28 14:05:11.052460, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 64.68570177191552}
+Timestamp: 2024-03-28 14:05:11.393309, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 73.83579822591801}
+Timestamp: 2024-03-28 14:05:11.866831, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.7893844362328881}
+Timestamp: 2024-03-28 14:05:12.232660, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 49.733130618075315}
+Timestamp: 2024-03-28 14:05:12.584345, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 96.30717086509817}
+Timestamp: 2024-03-28 14:05:12.997942, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.57502101862612}
+Timestamp: 2024-03-28 14:05:13.426094, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 12.331904138157423}
+Timestamp: 2024-03-28 14:05:13.816041, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 14.989684643062196}
+Timestamp: 2024-03-28 14:05:14.223690, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 74.85216041241463}
+Timestamp: 2024-03-28 14:05:14.600633, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 20.76300693402078}
+Timestamp: 2024-03-28 14:05:14.999029, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.56674804486485}
+Timestamp: 2024-03-28 14:05:15.350637, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 89.24470915372282}
+Timestamp: 2024-03-28 14:05:15.713962, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.3969563032992238}
+Timestamp: 2024-03-28 14:05:16.171112, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 55.39917078861134}
+Timestamp: 2024-03-28 14:05:16.534206, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 12.485471409416993}
+Timestamp: 2024-03-28 14:05:16.883353, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 91.03545112739667}
+Timestamp: 2024-03-28 14:05:17.240053, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 80.19222570977118}
+Timestamp: 2024-03-28 14:05:17.623552, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 77.87227637419826}
+Timestamp: 2024-03-28 14:05:18.026169, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 29.710811185386465}
+Timestamp: 2024-03-28 14:05:18.429867, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 35.24339990724334}
+Timestamp: 2024-03-28 14:05:18.830909, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:05:19.138177, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 82.14229385093797}
+Timestamp: 2024-03-28 14:05:19.554007, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 51.30888026035401}
+Timestamp: 2024-03-28 14:05:19.957261, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 47.991391536768425}
+Timestamp: 2024-03-28 14:05:20.334996, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 48.7573997863097}
+Timestamp: 2024-03-28 14:08:08.835603, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 71.73}
+Timestamp: 2024-03-28 14:08:09.518651, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 96.59}
+Timestamp: 2024-03-28 14:08:09.937317, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.1}
+Timestamp: 2024-03-28 14:08:10.343172, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 43.31}
+Timestamp: 2024-03-28 14:08:10.745732, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 94.53}
+Timestamp: 2024-03-28 14:08:11.160672, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 76.47}
+Timestamp: 2024-03-28 14:08:12.594307, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:12.970182, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 19.77}
+Timestamp: 2024-03-28 14:08:13.367715, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 71.44}
+Timestamp: 2024-03-28 14:08:13.749154, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:14.095231, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 34.68}
+Timestamp: 2024-03-28 14:08:14.743449, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:15.094276, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 75.13}
+Timestamp: 2024-03-28 14:08:15.592079, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 93.93}
+Timestamp: 2024-03-28 14:08:16.383770, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:16.690148, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 40.27}
+Timestamp: 2024-03-28 14:08:17.101830, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 49.51}
+Timestamp: 2024-03-28 14:08:17.478378, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:17.813453, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.18}
+Timestamp: 2024-03-28 14:08:18.149632, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 40.6}
+Timestamp: 2024-03-28 14:08:18.525401, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 98.87}
+Timestamp: 2024-03-28 14:08:18.872018, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 40.09}
+Timestamp: 2024-03-28 14:08:19.213935, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-03-28 14:08:19.600148, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-03-28 14:08:19.832008, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:20.149828, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 44.69}
+Timestamp: 2024-03-28 14:08:20.517785, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 91.91}
+Timestamp: 2024-03-28 14:08:20.921097, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 80.06}
+Timestamp: 2024-03-28 14:08:21.355695, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 52.32}
+Timestamp: 2024-03-28 14:08:21.796817, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 36.17}
+Timestamp: 2024-03-28 14:08:22.188206, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 84.25}
+Timestamp: 2024-03-28 14:08:22.568629, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.19}
+Timestamp: 2024-03-28 14:08:22.933943, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 62.24}
+Timestamp: 2024-03-28 14:08:23.335980, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 26.43}
+Timestamp: 2024-03-28 14:08:23.715106, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:24.119337, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 69.09}
+Timestamp: 2024-03-28 14:08:24.469691, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 77.29}
+Timestamp: 2024-03-28 14:08:24.877925, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 98.28}
+Timestamp: 2024-03-28 14:08:25.234044, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 18.16}
+Timestamp: 2024-03-28 14:08:25.658701, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 60.49}
+Timestamp: 2024-03-28 14:08:26.050670, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:26.575167, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 2.84}
+Timestamp: 2024-03-28 14:08:27.106275, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 67.84}
+Timestamp: 2024-03-28 14:08:27.554756, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 82.11}
+Timestamp: 2024-03-28 14:08:28.044729, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 78.26}
+Timestamp: 2024-03-28 14:08:28.450388, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 45.85}
+Timestamp: 2024-03-28 14:08:28.811820, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.18}
+Timestamp: 2024-03-28 14:08:29.374520, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 69.46}
+Timestamp: 2024-03-28 14:08:29.905951, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 30.8}
+Timestamp: 2024-03-28 14:08:30.290828, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.5}
+Timestamp: 2024-03-28 14:08:30.674597, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 18.68}
+Timestamp: 2024-03-28 14:08:31.212393, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 87.05}
+Timestamp: 2024-03-28 14:08:31.575123, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 70.29}
+Timestamp: 2024-03-28 14:08:31.931306, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 45.38}
+Timestamp: 2024-03-28 14:08:32.271333, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 51.79}
+Timestamp: 2024-03-28 14:08:32.649873, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 93.27}
+Timestamp: 2024-03-28 14:08:33.081247, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.91}
+Timestamp: 2024-03-28 14:08:33.470317, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 58.83}
+Timestamp: 2024-03-28 14:08:33.932179, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 49.23}
+Timestamp: 2024-03-28 14:08:34.371950, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 78.63}
+Timestamp: 2024-03-28 14:08:34.715566, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 3.26}
+Timestamp: 2024-03-28 14:08:35.035441, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 18.66}
+Timestamp: 2024-03-28 14:08:35.412453, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 70.15}
+Timestamp: 2024-03-28 14:08:35.820684, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 96.75}
+Timestamp: 2024-03-28 14:08:36.190630, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 99.37}
+Timestamp: 2024-03-28 14:08:36.593084, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 98.44}
+Timestamp: 2024-03-28 14:08:36.953437, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 66.27}
+Timestamp: 2024-03-28 14:08:37.310134, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 15.98}
+Timestamp: 2024-03-28 14:08:37.792290, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:38.132188, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 55.42}
+Timestamp: 2024-03-28 14:08:38.585103, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.8}
+Timestamp: 2024-03-28 14:08:39.030541, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 24.46}
+Timestamp: 2024-03-28 14:08:39.456443, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 85.45}
+Timestamp: 2024-03-28 14:08:39.917410, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 90.42}
+Timestamp: 2024-03-28 14:08:40.281549, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:40.711837, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-03-28 14:08:41.050739, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 64.85}
+Timestamp: 2024-03-28 14:08:41.437622, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.96}
+Timestamp: 2024-03-28 14:08:41.789118, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 65.89}
+Timestamp: 2024-03-28 14:08:42.175124, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 54.35}
+Timestamp: 2024-04-04 14:28:13.827058, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 8.71}
+Timestamp: 2024-04-04 14:28:15.031148, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.52}
+Timestamp: 2024-04-04 14:28:15.367948, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.09}
+Timestamp: 2024-04-04 14:28:15.710990, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.61}
+Timestamp: 2024-04-04 14:28:16.106745, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.2}
+Timestamp: 2024-04-04 14:28:16.449698, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.42}
+Timestamp: 2024-04-04 14:28:16.812154, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 5.92}
+Timestamp: 2024-04-04 14:28:17.166423, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.14}
+Timestamp: 2024-04-04 14:28:17.647176, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 52.97}
+Timestamp: 2024-04-04 14:28:18.007127, Response: {"status": {"status": "Bank Not Available"}}
+Timestamp: 2024-04-04 14:28:18.346532, Response: {"status": {"status": "Bank Not Available"}}
+Timestamp: 2024-04-04 14:28:18.706820, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:19.029188, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 57.88}
+Timestamp: 2024-04-04 14:28:19.723245, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 8.84}
+Timestamp: 2024-04-04 14:28:20.085157, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:20.404584, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.24}
+Timestamp: 2024-04-04 14:28:20.747868, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.62}
+Timestamp: 2024-04-04 14:28:21.113374, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:21.464596, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 90.53}
+Timestamp: 2024-04-04 14:28:21.971806, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 80.94}
+Timestamp: 2024-04-04 14:28:22.403382, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.85}
+Timestamp: 2024-04-04 14:28:22.723939, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.6}
+Timestamp: 2024-04-04 14:28:23.051238, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-04-04 14:28:23.354695, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-04-04 14:28:23.583241, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:23.883896, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 40.98}
+Timestamp: 2024-04-04 14:28:24.224350, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 44.13}
+Timestamp: 2024-04-04 14:28:24.590531, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 29.65}
+Timestamp: 2024-04-04 14:28:24.902523, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.22}
+Timestamp: 2024-04-04 14:28:25.250873, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 27.21}
+Timestamp: 2024-04-04 14:28:25.603279, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 6.81}
+Timestamp: 2024-04-04 14:28:25.961713, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 51.67}
+Timestamp: 2024-04-04 14:28:26.392171, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 2.45}
+Timestamp: 2024-04-04 14:28:26.723529, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 12.24}
+Timestamp: 2024-04-04 14:28:27.102307, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:27.422218, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 34.09}
+Timestamp: 2024-04-04 14:28:27.913505, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:28.222606, Response: {"status": {"status": "Bank Not Available"}}
+Timestamp: 2024-04-04 14:28:28.581504, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.1}
+Timestamp: 2024-04-04 14:28:28.928633, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 14.17}
+Timestamp: 2024-04-04 14:28:29.261715, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:29.683590, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 74.7}
+Timestamp: 2024-04-04 14:28:30.001338, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.87}
+Timestamp: 2024-04-04 14:28:30.381559, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 60.07}
+Timestamp: 2024-04-04 14:28:30.725673, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 85.16}
+Timestamp: 2024-04-04 14:28:31.085392, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 63.67}
+Timestamp: 2024-04-04 14:28:31.504492, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 1.35}
+Timestamp: 2024-04-04 14:28:31.841766, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 31.95}
+Timestamp: 2024-04-04 14:28:32.307503, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 28.8}
+Timestamp: 2024-04-04 14:28:32.660609, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 93.01}
+Timestamp: 2024-04-04 14:28:32.981563, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 97.67}
+Timestamp: 2024-04-04 14:28:33.303099, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 80.22}
+Timestamp: 2024-04-04 14:28:33.638374, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.45}
+Timestamp: 2024-04-04 14:28:34.022088, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 44.1}
+Timestamp: 2024-04-04 14:28:34.464223, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 8.96}
+Timestamp: 2024-04-04 14:28:34.866694, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 5.15}
+Timestamp: 2024-04-04 14:28:35.240919, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 69.87}
+Timestamp: 2024-04-04 14:28:35.640711, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 41.71}
+Timestamp: 2024-04-04 14:28:35.960547, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.17}
+Timestamp: 2024-04-04 14:28:36.339743, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 95.48}
+Timestamp: 2024-04-04 14:28:36.659836, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:37.014762, Response: {"status": {"status": "Bank Not Available"}}
+Timestamp: 2024-04-04 14:28:37.399580, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 99.61}
+Timestamp: 2024-04-04 14:28:37.734819, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 18.94}
+Timestamp: 2024-04-04 14:28:38.079400, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 38.75}
+Timestamp: 2024-04-04 14:28:38.470072, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.51}
+Timestamp: 2024-04-04 14:28:38.801770, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 92.41}
+Timestamp: 2024-04-04 14:28:39.200685, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 74.97}
+Timestamp: 2024-04-04 14:28:39.538866, Response: {"status": {"status": "Bank Not Available"}}
+Timestamp: 2024-04-04 14:28:39.884113, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 6.23}
+Timestamp: 2024-04-04 14:28:40.297112, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 52.96}
+Timestamp: 2024-04-04 14:28:40.701602, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 26.21}
+Timestamp: 2024-04-04 14:28:41.105151, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 88.4}
+Timestamp: 2024-04-04 14:28:41.485401, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.34}
+Timestamp: 2024-04-04 14:28:41.841622, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 2.75}
+Timestamp: 2024-04-04 14:28:42.230971, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 14:28:42.558485, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 76.21}
+Timestamp: 2024-04-04 14:28:42.879806, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 98.29}
+Timestamp: 2024-04-04 14:28:43.255280, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 20.6}
+Timestamp: 2024-04-04 14:28:43.582258, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 16.52}
+Timestamp: 2024-04-04 15:14:16.176825, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 93.7}
+Timestamp: 2024-04-04 15:14:17.180333, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 79.01}
+Timestamp: 2024-04-04 15:14:17.498564, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 19.26}
+Timestamp: 2024-04-04 15:14:17.778986, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 78.66}
+Timestamp: 2024-04-04 15:14:18.059616, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 49.15}
+Timestamp: 2024-04-04 15:14:18.339045, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 12.16}
+Timestamp: 2024-04-04 15:14:18.598291, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:18.858537, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 89.81}
+Timestamp: 2024-04-04 15:14:19.161182, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 91.18}
+Timestamp: 2024-04-04 15:14:19.458533, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:19.699153, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 68.6}
+Timestamp: 2024-04-04 15:14:19.958605, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:20.242163, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 81.43}
+Timestamp: 2024-04-04 15:14:20.834543, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.44}
+Timestamp: 2024-04-04 15:14:21.117983, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 6.28}
+Timestamp: 2024-04-04 15:14:21.379276, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.67}
+Timestamp: 2024-04-04 15:14:21.638660, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 32.91}
+Timestamp: 2024-04-04 15:14:21.899054, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:22.138877, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 27.58}
+Timestamp: 2024-04-04 15:14:22.419490, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 35.1}
+Timestamp: 2024-04-04 15:14:22.698835, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.74}
+Timestamp: 2024-04-04 15:14:22.999832, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.98}
+Timestamp: 2024-04-04 15:14:23.279146, Response: {"status": {"status": "Error - Bad Bank or Account Number."}}
+Timestamp: 2024-04-04 15:14:23.558605, Response: {"status": {"status": "bank name not found"}}
+Timestamp: 2024-04-04 15:14:23.759196, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:24.019124, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 30.18}
+Timestamp: 2024-04-04 15:14:24.338782, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 60.19}
+Timestamp: 2024-04-04 15:14:24.598263, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 61.94}
+Timestamp: 2024-04-04 15:14:24.859731, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 60.39}
+Timestamp: 2024-04-04 15:14:25.159114, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 39.85}
+Timestamp: 2024-04-04 15:14:25.419497, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 49.48}
+Timestamp: 2024-04-04 15:14:25.699426, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 11.61}
+Timestamp: 2024-04-04 15:14:25.979008, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.5}
+Timestamp: 2024-04-04 15:14:26.238715, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 67.04}
+Timestamp: 2024-04-04 15:14:26.539409, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:26.799681, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 59.83}
+Timestamp: 2024-04-04 15:14:27.097321, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:27.339209, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 55.45}
+Timestamp: 2024-04-04 15:14:27.619632, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 25.94}
+Timestamp: 2024-04-04 15:14:27.879111, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 69.05}
+Timestamp: 2024-04-04 15:14:28.158827, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:28.438672, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 75.41}
+Timestamp: 2024-04-04 15:14:28.698909, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 28.38}
+Timestamp: 2024-04-04 15:14:28.958875, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 91.76}
+Timestamp: 2024-04-04 15:14:29.238534, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 9.02}
+Timestamp: 2024-04-04 15:14:29.519198, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.87}
+Timestamp: 2024-04-04 15:14:29.799445, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 67.67}
+Timestamp: 2024-04-04 15:14:30.079310, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 8.59}
+Timestamp: 2024-04-04 15:14:30.379610, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 83.68}
+Timestamp: 2024-04-04 15:14:30.679735, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 36.78}
+Timestamp: 2024-04-04 15:14:30.940702, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 66.64}
+Timestamp: 2024-04-04 15:14:31.218985, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 99.36}
+Timestamp: 2024-04-04 15:14:31.497854, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 24.3}
+Timestamp: 2024-04-04 15:14:31.779896, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 63.17}
+Timestamp: 2024-04-04 15:14:32.039512, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 12.9}
+Timestamp: 2024-04-04 15:14:32.319239, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.52}
+Timestamp: 2024-04-04 15:14:32.600827, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 23.31}
+Timestamp: 2024-04-04 15:14:32.878895, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 81.29}
+Timestamp: 2024-04-04 15:14:33.159964, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 48.29}
+Timestamp: 2024-04-04 15:14:33.440122, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 3.22}
+Timestamp: 2024-04-04 15:14:33.718830, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:33.979500, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.16}
+Timestamp: 2024-04-04 15:14:34.298209, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 89.6}
+Timestamp: 2024-04-04 15:14:34.579646, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 56.6}
+Timestamp: 2024-04-04 15:14:34.879827, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 31.48}
+Timestamp: 2024-04-04 15:14:35.159031, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 76.75}
+Timestamp: 2024-04-04 15:14:35.445226, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 48.71}
+Timestamp: 2024-04-04 15:14:35.738985, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 92.25}
+Timestamp: 2024-04-04 15:14:36.019532, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:36.298230, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 71.31}
+Timestamp: 2024-04-04 15:14:36.580165, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.4}
+Timestamp: 2024-04-04 15:14:36.859958, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 73.91}
+Timestamp: 2024-04-04 15:14:37.118079, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 32.87}
+Timestamp: 2024-04-04 15:14:37.399480, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 28.17}
+Timestamp: 2024-04-04 15:14:37.680220, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 21.84}
+Timestamp: 2024-04-04 15:14:37.979827, Response: {"status": {"status": "Declined. Insufficient Funds."}}
+Timestamp: 2024-04-04 15:14:38.259394, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 79.37}
+Timestamp: 2024-04-04 15:14:38.539588, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 70.19}
+Timestamp: 2024-04-04 15:14:38.800043, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 42.21}
+Timestamp: 2024-04-04 15:14:39.079221, Response: {"status": "transaction approved", "merchant_name": "Fox Books", "amount": 4.09}
