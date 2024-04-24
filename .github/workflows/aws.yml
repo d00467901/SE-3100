@@ -3,7 +3,7 @@ name: Deploy to AWS Lambda
 on:
   push:
     branches:
-      - main  # Set this to the branch you use for production releases
+      - main
 
 jobs:
   deploy:
